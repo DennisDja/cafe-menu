@@ -2,4 +2,4 @@
 
 Ein visuell gestaltetes Café-Menü mit HTML und CSS.
 
-➡️ [Live-Demo ansehen](https://dennisdja.github.io/camper-cafe-menu/)
+➡️ [Live-Demo ansehen](https://dennisdja.github.io/cafe-menu/)
